@@ -1,0 +1,93 @@
+Phrase,Sentiment
+sleep,0
+"good night	",0
+"Have some rest	",0
+"Stop working	",0
+"Exhausted	",0
+"Tired	",0
+"Lie down	",0
+"Please just rest	",0
+"Have a good dream	",0
+"You may cease working	",0
+"Leave the work alone	",0
+"Close your eyes	",0
+"Nice dream	",0
+"Take a nap	",0
+"That¡¯s it. You are done. 	",0
+"Congrats! You have finished all of your work.	",0
+"Go to sleep 	",0
+"Take some rest	",0
+"Have some relaxes	",0
+"Relax for a moment	",0
+"Loosen up	",0
+"Take a break	",0
+"It's time for break	",0
+"It's time for relaxation	",0
+"wake	",1
+"Get up	",1
+"Start working	",1
+"New work has been assigned to you	",1
+"your rest time is now over.	",1
+"Start your business	",1
+"Begin working	",1
+"Start doing something	",1
+"You are on duty	",1
+"Good morning! 	",1
+"Wake up!	",1
+"Open your eyes	",1
+"Turn left	",2
+"when facing north, turn to west	",2
+"when facing south, turn to east	",2
+"when facing east, turn to north	",2
+"when facing west, turn to south	",2
+"Counter clockwise 90	",2
+"Face your left side, please	",2
+"Turn right	",3
+"when facing north, turn to east	",3
+"when facing south, turn to west	",3
+"when facing east, turn to south	",3
+"when facing west, turn to north	",3
+"Clockwise 90	",3
+"Face your right side, please	",3
+"waddle	",4
+"Walk	",4
+"Roam	",4
+"Stride	",4
+"Take a step	",4
+"Walk slowly 	",4
+"Enter drive mode	",5
+"Use your rolls	",5
+"Drive fast	",5
+"Run fast	",5
+"Move as fast as you can	",5
+"Tour around with your wheels, please	",5
+"Play sound	",6
+"make some noises	",6
+"sing a song	",6
+"talk to me	",6
+"I want a conversation	",6
+"give a speech	",6
+"Say something	",6
+"Speak loud, I can¡¯t hear you	",6
+"Sing for me 	",6
+"Speak to me 	",6
+"Set light	",7
+"Light up	",7
+"Shine 	",7
+"Turn on blue 	",7
+"Turn red	",7
+"Become green 	",7
+"Brighten up ____	",7
+"No action	",8
+"Class is over	",8
+"Professor is awesome	",8
+"Shawn is handsome	",8
+"Tom is smart	",8
+"Professor is smart	",8
+"Everyone is smart	",8
+"Everyone is handsome	",8
+"The course is interesting	",8
+"The course is not interesting	",8
+"Stay idle	",8
+"Do nothing	",8
+"What's your favorite thing	",8
