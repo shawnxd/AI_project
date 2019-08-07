@@ -15,15 +15,21 @@ pip install pymagnitude
 However, if this is not a problem and you already have these modules (and any other necessary modules) installed, then we can proceed with setting up the r2d2 Command Center! 
 
 In the python environment, type in the following commands: 
+
 from client import DroidClient
+
 droid = DroidClient() 
+
 droid.scan() # Scan for droids.
+
 droid.connect_to_droid('D2-33C3') # droid ID here
 
 Now we have connected to the robot… this is where our r2d2_final.py script comes into play. Type in the following commands: 
 
 from r2d2_final import CommandCenter
+
 command = CommandCenter(droid)
+
 command.run_commands()
 
 Feel free to play with the robot now!
