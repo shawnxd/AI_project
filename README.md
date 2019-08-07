@@ -1,5 +1,5 @@
 # AI_project
-Term project for CIS 521 Artificial Intelligence
+Term project for CIS 521 Artificial Intelligence.
 Videos for the project here: https://youtu.be/NsPaquG9qA8
 {\rtf1\ansi\ansicpg1252\cocoartf1671
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
